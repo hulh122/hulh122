@@ -3,7 +3,7 @@
 I'm a FrontEnd developer from China 🇨🇳
 
 **About me**
-- 💼 Working at [Yuanfudao](https://www.yuanfudao.com/)
+- 💼 Working at [Paraflow]
 - 🌱 I'm a newbie in open source but I'm passionate
 - ❤️ Enjoy writing TypeScript and RxJS
 - ♠️ Keen on No-Limit Texas Hold'em
